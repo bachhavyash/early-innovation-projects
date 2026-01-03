@@ -101,3 +101,20 @@ Automatic gas valve shut-off mechanism
 IoT-based monitoring using mobile application
 
 LCD display for gas level indication
+
+
+gas-leakage-detection-system
+│
+├── README.md                # Main project explanation
+├── LICENSE                  # Open-source license (MIT)
+│
+├── code/
+│   └── gas_leakage_detection.ino
+│
+├── images/
+   ├── components.jpg
+   ├── connection_diagram.png
+   └── final_working_model.jpg
+
+
+
