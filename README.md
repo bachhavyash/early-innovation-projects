@@ -1,6 +1,9 @@
 # early-innovation-projects
 A collection of my early innovation and school-level engineering projects, including a Gas Leakage Detection System showcased at a district-level exhibition.
+
+
 🚨 Gas Leakage Detection System
+
 📌 Overview
 
 The Gas Leakage Detection System is a safety-oriented embedded system designed to detect the presence of hazardous gases such as LPG and methane in the surrounding environment. The system continuously monitors gas concentration and provides immediate audio-visual alerts when gas levels exceed a predefined safe threshold, helping to prevent fire hazards and explosions.
